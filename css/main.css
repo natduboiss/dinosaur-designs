@@ -3,3 +3,18 @@ html {
   font-family: Georgia, serif;
 
 }
+
+img {
+  width: 100%;
+}
+
+h2 {
+  color: #5d8432;
+  text-transform: uppercase;
+}
+
+figcaption {
+  font-size: 70%;
+  font-style: italic;
+  text-align: center;
+}
