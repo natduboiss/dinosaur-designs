@@ -1,4 +1,4 @@
-html {
+body {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
 
@@ -27,7 +27,7 @@ h2 {
 }
 
 figcaption {
-  font-size: 90%;
+  font-size: 75%;
   font-style: italic;
   text-align: center;
 }
