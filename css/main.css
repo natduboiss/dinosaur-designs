@@ -8,8 +8,13 @@ nav {
   font-family: "Patua One", cursive;
 }
 
+ol {
+  list-style-type: none;
+}
+
 a {
   color: #793284;
+  text-decoration: none;
 }
 
 a:hover {
